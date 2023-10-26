@@ -1,0 +1,5 @@
+cidr     = "10.40.0.0/16"
+sub1cidr = "10.40.0.0/24"
+sub2cidr = "10.40.1.0/24"
+vpcname  = "terraform"
+igw      = "terraform"
